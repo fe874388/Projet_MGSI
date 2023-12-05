@@ -4,14 +4,14 @@
 
 ## Fonctionnalités du Projet
 
--Partie 1 [EL MAGHOUM Fayçal, DIALLO Mamoudou]:
-	- Plaquer une texture sur un support plan de manière à ce que l’image représentée par la texture soit perçue non déformée dans un miroir de forme
+Partie 1 [EL MAGHOUM Fayçal, DIALLO Mamoudou]:
+- Plaquer une texture sur un support plan de manière à ce que l’image représentée par la texture soit perçue non déformée dans un miroir de forme
 cylindrique, situé à un endroit précis.
 
 
 
--Partie 2 [IDIR Amzal, TAHIR Ilyas, AMRANI Salim, EMIR-MOUNGONDO Cristan]:
-	- Plaquer une texture, en la déformant, sur une forme géométrique donnée, de manière à ce que depuis "un point de vue specifique" on reconnaisse l’image non déformée représenté par la texture.
+Partie 2 [IDIR Amzal, TAHIR Ilyas, AMRANI Salim, EMIR-MOUNGONDO Cristan]:
+- Plaquer une texture, en la déformant, sur une forme géométrique donnée, de manière à ce que depuis "un point de vue specifique" on reconnaisse l’image non déformée représenté par la texture.
 Appliquer ce principe aux formes suivantes:
 - un cone (vu du dessus)
 - une pyramide à base triangulaire 
