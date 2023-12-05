@@ -9,6 +9,7 @@ Partie 1 [EL MAGHOUM Fayçal, DIALLO Mamoudou]:
 cylindrique, situé à un endroit précis.
 
 
+
 Partie 2 [IDIR Amzal, TAHIR Ilyas, AMRANI Salim, EMIR-MOUNGONDO Cristan]:
 	- Plaquer une texture, en la déformant, sur une forme géométrique donnée, de manière à ce que depuis "un point de vue specifique" on reconnaisse l’image non déformée représenté par la texture.
 Appliquer ce principe aux formes suivantes:
@@ -20,7 +21,7 @@ Appliquer ce principe aux formes suivantes:
 
 
 ATTENTION ! 
-Pour chacun de ces cas fait une animation OPENGL illustrant le principe de construction et montrant le résultat final.
+Pour chacun de ces cas, faire une animation OPENGL illustrant le principe de construction et montrant le résultat final.
 
 ## Équipe du Projet
 
@@ -38,7 +39,7 @@ Les six membres du projet sont :
 
 Pour utiliser ce projet :
 
-1. Récupérer ce dossier (téléchargement ou clone)
+1. Récupérer ce dossier (téléchargement ou git clone)
 2. Dans le fichier que vous souhaitez exécuter faite un "make" sur le terminal 
 3. Puis pour lancer, exécuter la commande : ./main
 
