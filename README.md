@@ -40,6 +40,6 @@ Les six membres du projet sont :
 Pour utiliser ce projet :
 
 1. Récupérer ce dossier (téléchargement ou git clone)
-2. Dans le fichier que vous souhaitez exécuter faite un "make" sur le terminal 
+2. Dans le fichier que vous souhaitez exécuter faite un "make" sur le terminal / ("g++ -o main main.cpp -lglut -lGLU -lGL -ljpeg" par le terminal si vous avez pas de make)
 3. Puis pour lancer, exécuter la commande : ./main
 
