@@ -13,7 +13,7 @@ cylindrique, situé à un endroit précis.
 Partie 2 [IDIR Amzal, TAHIR Ilyas, AMRANI Salim, EMIR-MOUNGONDO Cristan]:
 - Plaquer une texture, en la déformant, sur une forme géométrique donnée, de manière à ce que depuis "un point de vue specifique" on reconnaisse l’image non déformée représenté par la texture.
 Appliquer ce principe aux formes suivantes:
-- un cone (vu du dessus)
+- un cone (vu du dessus).
 - une pyramide à base triangulaire 
 - une pyramide à base quadrangulaire
 - une pyramide à base d’un polygone régulier.
